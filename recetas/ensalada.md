@@ -1,1 +1,1 @@
-- Ensalada básica de pollo
+- Ensalada básica pero con aura
