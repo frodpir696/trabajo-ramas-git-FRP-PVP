@@ -1,0 +1,3 @@
+- Aprender a usar ramas en Git
+- Trabajar con Pull Requests
+- Resolver conflictos y etiquetar versiones
