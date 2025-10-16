@@ -1,1 +1,1 @@
-- Ensalada básica
+- Ensalada básica de pollo
